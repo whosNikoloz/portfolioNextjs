@@ -1,0 +1,154 @@
+[
+  {
+    "project": "EduSpace",
+    "url": "https://edu-space-nextjs.vercel.app/",
+    "repo": "Private",
+    "descriptionTitle": "Learn Programming Online",
+    "description": "Explore the world of coding with EduSpace. Learn programming online and master your skills.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/eduspace/03.png"
+      },
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/eduspace/02.png"
+      },
+      {
+        "key": "mock-stack",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/eduspace/01.png"
+      }
+    ],
+    "stack": [
+      { "key": "nextjs", "name": "Next.js", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "firebase", "name": "Firebase", "type": "devicon" },
+      { "key": "csharp", "name": "C#", "type": "devicon" },
+      { "key": "dotnetcore", "name": ".NETCore", "type": "devicon" },
+      { "key": "mysql", "name": "MySQL", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "typescript", "name": "TypeScript", "type": "devicon" },
+      { "key": "jquery", "name": "jQuery", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "tailwindcss", "name": "Tailwindcss", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "git", "name": "Gitbash", "type": "devicon" },
+      { "key": "github", "name": "GitHub", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "LinkTree",
+    "url": "https://linktreedemo.netlify.app/main",
+    "repo": "Public",
+    "descriptionTitle": "A LinkTree clone",
+    "description": "Built on .NET Core, this is a clone of the popular LinkTree website. It allows users to create a profile and add links to their social media accounts.",
+    "imageOptions": [{ "key": "size", "value": "large" }],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "right",
+        "h": "797",
+        "w": "556",
+        "url": "/img/linktree/01.png"
+      }
+    ],
+    "stack": [
+      { "key": "csharp", "name": "C#", "type": "devicon" },
+      { "key": "dotnetcore", "name": ".NETCore", "type": "devicon" },
+      { "key": "bootstrap", "name": "Bootstrap", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "jquery", "name": "jQuery", "type": "devicon" },
+      { "key": "microsoftsqlserver", "name": "SQL", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "git", "name": "Gitbash", "type": "devicon" },
+      { "key": "github", "name": "GitHub", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "OPizza",
+    "url": "https://opizaademo.netlify.app/pizza/",
+    "repo": "Public",
+    "descriptionTitle": "A Pizza Ordering App",
+    "description": "Built on .Net Core, this is a pizza ordering app. It allows users to create an account, order pizza, and view their order history.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/opizza/03.png"
+      },
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/opizza/02.png"
+      },
+      {
+        "key": "mock-stack",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/opizza/01.png"
+      }
+    ],
+    "stack": [
+      { "key": "csharp", "name": "C#", "type": "devicon" },
+      { "key": "dotnetcore", "name": ".NETCore", "type": "devicon" },
+      { "key": "bootstrap", "name": "Bootstrap", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "jquery", "name": "jQuery", "type": "devicon" },
+      { "key": "microsoftsqlserver", "name": "SQL", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "git", "name": "Gitbash", "type": "devicon" },
+      { "key": "github", "name": "GitHub", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "SavorAsia",
+    "url": "https://savorasiademo.netlify.app/home/",
+    "repo": "Public",
+    "descriptionTitle": "A Food Ordering App",
+    "description": "Built on .NET Core, this is a food ordering app. It allows users to create an account, order food, and view their order history.",
+    "imageOptions": [{ "key": "size", "value": "large" }],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "right",
+        "h": "797",
+        "w": "556",
+        "url": "/img/savorasia/01.png"
+      }
+    ],
+    "stack": [
+      { "key": "csharp", "name": "C#", "type": "devicon" },
+      { "key": "dotnetcore", "name": ".NET", "type": "devicon" },
+      { "key": "bootstrap", "name": "Bootstrap", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "jquery", "name": "jQuery", "type": "devicon" },
+      { "key": "microsoftsqlserver", "name": "SQL", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "git", "name": "Gitbash", "type": "devicon" },
+      { "key": "github", "name": "GitHub", "type": "devicon" }
+    ]
+  }
+]
