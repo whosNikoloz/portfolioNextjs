@@ -42,7 +42,7 @@ export default function About() {
               title="Softskills that pay the bills"
               containerClass={about.container}
               iconClass={about.icon}
-              icon={["fat", "ear-listen"]}
+              icon={["fa", "ear-listen"]}
               copy="With a foundation in design and technical expertise, I offer strong leadership, time management, and multitasking skills. Beyond work, my passion for gaming enhances my problem-solving abilities and reflects my commitment to continuous improvement. I bring a unique blend of creativity and strategic thinking to projects. Outside of work, I stay active through football, honing my teamwork skills. I am confident that my diverse skill set and gaming passion can bring value to any project."
             />
             <BadgesBlock
@@ -64,10 +64,10 @@ export default function About() {
 }
 
 const methods = [
-  { key: "planet-moon", name: "User Research", type: "fad" },
-  { key: "qrcode", name: "Digital Strategy", type: "fad" },
-  { key: "window", name: "Design Systems", type: "fad" },
-  { key: "cubes", name: "Product Strategy", type: "far" },
-  { key: "layer-plus", name: "Brand Strategy", type: "fad" },
-  { key: "solar-system", name: "Operations", type: "fad" },
+  { key: "earth-americas", name: "User Research", type: "fa" },
+  { key: "qrcode", name: "Digital Strategy", type: "fa" },
+  { key: "window-restore", name: "Design Systems", type: "fa" },
+  { key: "cubes", name: "Product Strategy", type: "fa" },
+  { key: "layer-group", name: "Brand Strategy", type: "fa" },
+  { key: "ubuntu", name: "Operations", type: "fab" },
 ];

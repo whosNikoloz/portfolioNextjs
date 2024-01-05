@@ -36,7 +36,7 @@ export default function Technical() {
           <div className={about.copy}>
             <CopyBlock
               title="Polymath foundations"
-              icon={["fat", "chart-network"]}
+              icon={["fa", "network-wired"]}
               copy="With a strong foundation in both design and development, I bring a unique perspective to every project and am constantly learning and evolving to stay up-to-date with the latest industry trends."
               iconClass={about.icon}
               containerClass={about.container}
@@ -47,7 +47,7 @@ export default function Technical() {
               list={software}
               block="software"
               fullContainer="fullContainer"
-              icon="grid-2-plus"
+              icon="code-merge"
               containerClass={about.container}
               headerIcon={about.icon}
             />
@@ -84,8 +84,8 @@ const software = [
   { key: "canva", name: "Canva", type: "devicon" },
   { key: "vscode", name: "VSCode", type: "devicon" },
   { key: "visualstudio", name: "VisualStudio", type: "devicon" },
-  { key: "mailbox", name: "Postman", type: "fas" },
-  { key: "computer-mouse", name: "Click Up", type: "fas" },
+  { key: "mailbox", name: "Postman", type: "fa" },
+  { key: "computer-mouse", name: "Click Up", type: "fa" },
 ];
 
 const tech = [

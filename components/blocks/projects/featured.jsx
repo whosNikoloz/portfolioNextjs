@@ -78,7 +78,7 @@ export default function FeaturedProject({ content }, index) {
               className={css.viewProject}
             >
               <m.div variants={""} className={css.viewProject}>
-                <Icon icon={["fad", "arrow-right-to-bracket"]} />
+                <Icon icon={["fas", "arrow-right-to-bracket"]} />
               </m.div>
             </a>
           </Link>
