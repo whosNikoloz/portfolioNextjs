@@ -81,11 +81,9 @@ const software = [
   { key: "photoshop", name: "Photoshop", type: "devicon" },
   { key: "illustrator", name: "Illustrator", type: "devicon" },
   { key: "figma", name: "Figma", type: "devicon" },
-  { key: "canva", name: "Canva", type: "devicon" },
   { key: "vscode", name: "VSCode", type: "devicon" },
   { key: "visualstudio", name: "VisualStudio", type: "devicon" },
   { key: "mailbox", name: "Postman", type: "fa" },
-  { key: "computer-mouse", name: "Click Up", type: "fa" },
 ];
 
 const tech = [
@@ -94,6 +92,7 @@ const tech = [
   { key: "dot-net", name: ".Net", type: "devicon" },
   { key: "nodejs", name: "NodeJS", type: "devicon" },
   { key: "react", name: "React", type: "devicon" },
+  { key: "docker", name: "Docker", type: "devicon" },
   { key: "nextjs", name: "NextJS", type: "devicon" },
   { key: "javascript", name: "JavaScript", type: "devicon" },
   { key: "jquery", name: "jQuery", type: "devicon" },

@@ -1,5 +1,87 @@
 [
   {
+    "project": "QuizHub",
+    "url": "hhttps://quizhub-orcin.vercel.app/en",
+    "repo": "Public",
+    "descriptionTitle": "QuizHub For Teachers And Students",
+    "description": "It provides a comprehensive platform for education, featuring real-time quiz management, interactive rooms, and seamless communication tools for effective teaching and learning.",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/quizhub/03.png"
+      },
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/quizhub/02.png"
+      },
+      {
+        "key": "mock-stack",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/quizhub/01.png"
+      }
+    ],
+    "stack": [
+      { "key": "nextjs", "name": "Next.js", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "firebase", "name": "Firebase", "type": "devicon" },
+      { "key": "csharp", "name": "C#", "type": "devicon" },
+      { "key": "dotnetcore", "name": ".NETCore", "type": "devicon" },
+      { "key": "mysql", "name": "MySQL", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "typescript", "name": "TypeScript", "type": "devicon" },
+      { "key": "openapi", "name": "Signalr", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "tailwindcss", "name": "Tailwindcss", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "git", "name": "Gitbash", "type": "devicon" },
+      { "key": "github", "name": "GitHub", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "QrMenu",
+    "url": "https://qrmenu-nika.vercel.app/en/menu",
+    "repo": "Public",
+    "descriptionTitle": "QRMenu - Your Interactive Restaurant Menu",
+    "description": "Built with Next.js, React, and ASP.NET Web API, qrMenu offers an interactive dining experience, simplifying menu browsing and ordering via QR codes.",
+    "imageOptions": [{ "key": "size", "value": "large" }],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "right",
+        "h": "797",
+        "w": "556",
+        "url": "/img/qrmenu/01.png"
+      }
+    ],
+    "stack": [
+      { "key": "nextjs", "name": "Next.js", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "firebase", "name": "Firebase", "type": "devicon" },
+      { "key": "csharp", "name": "C#", "type": "devicon" },
+      { "key": "dotnetcore", "name": ".NETCore", "type": "devicon" },
+      { "key": "mysql", "name": "MySQL", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "typescript", "name": "TypeScript", "type": "devicon" },
+      { "key": "openapi", "name": "Signalr", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "tailwindcss", "name": "Tailwindcss", "type": "devicon" },
+      { "key": "figma", "name": "Figma", "type": "devicon" },
+      { "key": "git", "name": "Gitbash", "type": "devicon" },
+      { "key": "github", "name": "GitHub", "type": "devicon" }
+    ]
+  },
+  {
     "project": "EduSpace",
     "url": "https://edu-space.vercel.app/",
     "repo": "Private",
@@ -40,6 +122,7 @@
       { "key": "typescript", "name": "TypeScript", "type": "devicon" },
       { "key": "jquery", "name": "jQuery", "type": "devicon" },
       { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "docker", "name": "Docker", "type": "devicon" },
       { "key": "css3", "name": "CSS3", "type": "devicon" },
       { "key": "tailwindcss", "name": "Tailwindcss", "type": "devicon" },
       { "key": "figma", "name": "Figma", "type": "devicon" },
